@@ -10,11 +10,11 @@ In this project my main focus would be to use the time-series data of flux recei
 Libraries, Packages and Technology used:
 Python3, Pytorch, AWS Sagemaker, Pandas, Numpy, Sci-kitLearn, Matplotlib, Jupyter Notebook, SciPy
 
-### Data
+### Data from Kaggle
 
 https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data
 
-### Preprocessed data
+### Preprocessed data used for training
 
 https://drive.google.com/drive/folders/1B4ReAKbgUe2cN8JHQ_icYf_xMAv7SatN?usp=sharing
 
