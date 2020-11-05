@@ -9,3 +9,30 @@ In this project my main focus would be to use the time-series data of flux recei
 
 Libraries, Packages and Technology used:
 Python3, Pytorch, AWS Sagemaker, Pandas, Numpy, Sci-kitLearn, Matplotlib, Jupyter Notebook, SciPy
+
+
+### Proposal
+
+This contains the description of how I planned to approach the problem just after exploring the data. The skewness of the dataset proves to be a major roadblock in training the model.
+
+### Capstone Project
+
+This is the tentative project report describing the architecture used, workflow pipeline, and the obstacles confronted in the approach mentioned in the proposal. There is a wide scope in improving the performance of the model, which I would dig into in the near future.
+
+### 1_data_preprocessing
+
+The notebook contains the implementation of the preprocessing techniques.
+
+### 2_training_and_prediction
+
+The notebook contains the training and inference code used for training the model through AWS Sagemaker Pytorch estimators, models and endpoints.
+
+### source_pytorch
+
+Folder contains the python scripts to be used for defining the model, training the estimator and inferencing the predictor once the endpoint is deployed.
+
+### train_data
+
+Folder containing the running loss and accuracy during training. It is extracted from the output.tar.gz as shown in 2_training_and_prediction.ipynb.
+
+
